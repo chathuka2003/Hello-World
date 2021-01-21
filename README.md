@@ -1,2 +1,4 @@
 # Hello-World
-first one
+first one;
+
+someone trying out github for the first time
